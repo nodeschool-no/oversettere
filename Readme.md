@@ -1,0 +1,1 @@
+Diskusjoner rundt oversettelser ligger som [issues](https://github.com/nodeschool-no/oversettere/issues).
