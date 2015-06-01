@@ -22,11 +22,13 @@ Når alt er gjort så sender vi en PR inn til Learnyounode.
 - My first I/O
 
 ### Hvordan kjøre lokalt for å teste?
-$ cd <sti til der du klonet leanryounode>
-$ rm -rf node_modules/workshopper
-$ npm link ../<fil sti til der workshopper ligger clonet> 
-$ node learnyounode.js
 
+````
+  $ cd <sti til der du klonet leanryounode>
+  $ rm -rf node_modules/workshopper
+  $ npm link ../<fil sti til der workshopper ligger clonet> 
+  $ node learnyounode.js
+````
 
 ### Begreper i NodeSchool verden brukt mange steder ifbm oversetting av NodeSchool materiale
 
