@@ -7,4 +7,3 @@ Formålet er å hjelpe hverandre oversette NodeSchool materiale. Allerede er [No
 - Workshopper (altså ordet, ikke workshops i flertall) oversettes ikke ettersom det er en modul [workshopper](https://github.com/workshopper/workshopper)
 - En Workshop består av oppgaver. På engelsk er det Workshops og exercises
 - Events oversettes med arrangement (eller noen ganger kan man også skrive "en NodeSchool")
-- 
