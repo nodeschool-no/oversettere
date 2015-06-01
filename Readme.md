@@ -20,6 +20,7 @@ Når alt er gjort så sender vi en PR inn til Learnyounode.
 - Hello world
 - Baby steps
 - My first I/O
+- My first async I/O
 
 ### Hvordan kjøre lokalt for å teste?
 
