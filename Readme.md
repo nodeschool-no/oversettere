@@ -7,7 +7,7 @@ Formålet er å hjelpe hverandre oversette NodeSchool materiale. Allerede er [No
 ## Komme igang med å bidra
 
 Første mål er å få oversatt alt i 
-- Lag en issue for oppgaven du oversetter
+- Lag en issue for oppgaven i [oversetter repoet](https://github.com/nodeschool-no/oversettere/issues)
 - Lag en ny branch under [leanyounode forken](https://github.com/nodeschool-no/learnyounode)
 - Oversett
 - Lag en Pull Request til [Norwegian branchen](https://github.com/nodeschool-no/learnyounode/tree/norwegian) på vår fork
