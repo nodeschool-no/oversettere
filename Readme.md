@@ -13,13 +13,19 @@ Første mål er å få oversatt alle oppgaver i [learnyounode workshoppen](https
 - Oversett
 - Lag en Pull Request til [Norwegian branchen](https://github.com/nodeschool-no/learnyounode/tree/norwegian) på vår fork hvor vi kan diskutere.
 - Når alt er i orden merger vi den inn i Norwegian branchen og legger den til i lista nedenfor
-- 
+
 Når alt er gjort så sender vi en PR inn til Learnyounode.
 
 ## Oversatte oppgaver i Learnyounode
 - Hello world
 - Baby steps
 - My first I/O
+
+### Hvordan kjøre lokalt for å teste?
+$ cd <sti til der du klonet leanryounode>
+$ rm -rf node_modules/workshopper
+$ npm link ../<fil sti til der workshopper ligger clonet> 
+$ node learnyounode.js
 
 
 ### Begreper i NodeSchool verden brukt mange steder ifbm oversetting av NodeSchool materiale
