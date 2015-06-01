@@ -6,13 +6,19 @@ Formålet er å hjelpe hverandre oversette NodeSchool materiale. Allerede er [No
 
 ## Komme igang med å bidra
 
-Første mål er å få oversatt alt i 
-- Lag en issue for oppgaven i [oversetter repoet](https://github.com/nodeschool-no/oversettere/issues)
-- Lag en ny branch under [leanyounode forken](https://github.com/nodeschool-no/learnyounode)
+Første mål er å få oversatt alle oppgaver i [learnyounode workshoppen](https://github.com/nodeschool-no/learnyounode). Den er forket til nodeschool-no:
+- Finn en oppgave ved å se under [exercises](https://github.com/nodeschool-no/learnyounode/tree/norwegian/exercises) ved å se om det ligger en _problem-nb-nb.md_ i katalogen.
+- Deretter lag en issue for oppgaven i [oversetter repoet](https://github.com/nodeschool-no/oversettere/issues) og assign den til deg selv
+- Lag en ny branch under [leanyounode forken](https://github.com/nodeschool-no/learnyounode) basert på [Norwegian branchen](https://github.com/nodeschool-no/learnyounode/tree/norwegian). For å se
 - Oversett
 - Lag en Pull Request til [Norwegian branchen](https://github.com/nodeschool-no/learnyounode/tree/norwegian) på vår fork
-
 Når alt er gjort så sender vi en PR inn til Learnyounode.
+
+## Oversatte oppgaver i Learnyounode
+- Hello world
+- Baby steps
+- My first I/O
+
 
 ### Begreper i NodeSchool verden brukt mange steder ifbm oversetting av NodeSchool materiale
 
