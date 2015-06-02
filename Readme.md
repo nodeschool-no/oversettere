@@ -17,9 +17,9 @@ Første mål er å få oversatt alle oppgaver i [learnyounode workshoppen](https
 Når alt er gjort så sender vi en PR inn til Learnyounode.
 
 ## Status på oversettelser
-
-- [Oversettelse av Learnyounode](https://github.com/nodeschool-no/oversettere/milestones/Learnyounode%20oversettelse)
-- [Oversettelse av Javascripting](https://github.com/nodeschool-no/oversettere/milestones/Oversette%20javascripting%20workshop)
+Dette er prosjektene vi har tenkt å oversette i første omgang. Vi har alt oversatt [NodeSchool](http://nodeschool.io/nb-no) og Workshoper](https://github.com/workshopper/workshopper/).
+- [Learnyounode](https://github.com/nodeschool-no/oversettere/milestones/Learnyounode%20oversettelse)
+- [Javascripting](https://github.com/nodeschool-no/oversettere/milestones/Oversette%20javascripting%20workshop)
 
 ### Hvordan kjøre lokalt for å teste?
 
