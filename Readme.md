@@ -2,7 +2,7 @@
 
 Diskusjoner rundt oversettelser ligger som [issues](https://github.com/nodeschool-no/oversettere/issues).
 
-Formålet er å hjelpe hverandre oversette NodeSchool materiale. Allerede er [NodeSchool.io oversatt til norsk](http://nodeschool.io/nb-no/). [Workshopper](https://github.com/workshopper/workshopper) er i ferd med å oversettes. Største jobben ligger i å oversette workshops, ikke alle er mulig å oversette pga tekniske ting.
+Formålet er å hjelpe hverandre oversette NodeSchool materiale. Allerede er [NodeSchool.io](http://nodeschool.io/nb-no/) og [Workshopper](https://github.com/workshopper/workshopper) oversatt til norsk. Største jobben ligger i å oversette workshops, ikke alle er mulig å oversette pga tekniske ting.
 
 ## Komme igang med å bidra
 
@@ -17,7 +17,7 @@ Første mål er å få oversatt alle oppgaver i [learnyounode workshoppen](https
 Når alt er gjort så sender vi en PR inn til Learnyounode.
 
 ## Status på oversettelser
-Dette er prosjektene vi har tenkt å oversette i første omgang. Vi har alt oversatt [NodeSchool](http://nodeschool.io/nb-no) og Workshoper](https://github.com/workshopper/workshopper/).
+Dette er prosjektene vi har tenkt å oversette i første omgang:
 - [Learnyounode](https://github.com/nodeschool-no/oversettere/milestones/Learnyounode%20oversettelse)
 - [Javascripting](https://github.com/nodeschool-no/oversettere/milestones/Oversette%20javascripting%20workshop)
 
