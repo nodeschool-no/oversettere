@@ -17,15 +17,7 @@ Første mål er å få oversatt alle oppgaver i [learnyounode workshoppen](https
 Når alt er gjort så sender vi en PR inn til Learnyounode.
 
 ## Allerede oversatte oppgaver i Learnyounode
-- Hello world
-- Baby steps
-- My first I/O
-- My first async I/O
-- Juggeling async
-- Filtered ls
-- Make it modular
-- HTTP collect
-- HTTP client
+Status på oversettelse av Learnyounode [kan du ser her](https://github.com/nodeschool-no/oversettere/milestones/Learnyounode%20oversettelse). Assign deg en issue og følg oppskrifta over.
 
 ### Hvordan kjøre lokalt for å teste?
 
