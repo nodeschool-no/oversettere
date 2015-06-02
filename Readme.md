@@ -18,7 +18,7 @@ Når alt er gjort så sender vi en PR inn til Learnyounode.
 
 ## Status på oversettelser
 Dette er prosjektene vi har tenkt å oversette i første omgang:
-- [Learnyounode](https://github.com/nodeschool-no/oversettere/milestones/Learnyounode%20oversettelse)
+- ~~[Learnyounode](https://github.com/nodeschool-no/oversettere/milestones/Learnyounode%20oversettelse)~~
 - [Javascripting](https://github.com/nodeschool-no/oversettere/milestones/Oversette%20javascripting%20workshop)
 
 ### Hvordan kjøre lokalt for å teste?
