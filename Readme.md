@@ -2,7 +2,7 @@
 
 Diskusjoner rundt oversettelser ligger som [issues](https://github.com/nodeschool-no/oversettere/issues).
 
-Formålet er å hjelpe hverandre oversette NodeSchool materiale. Allerede er [NodeSchool.io](http://nodeschool.io/nb-no/) og [Workshopper](https://github.com/workshopper/workshopper) oversatt til norsk. Største jobben ligger i å oversette workshops, ikke alle er mulig å oversette pga tekniske ting.
+Formålet er å hjelpe hverandre oversette NodeSchool materiale. Allerede er [NodeSchool.io](http://nodeschool.io/nb-no/), [Workshopper](https://github.com/workshopper/workshopper) og [Workshopper-adventure](https://github.com/workshopper/workshopper-adventure) oversatt til norsk. Største jobben ligger i å oversette workshops, ikke alle er mulig å oversette pga tekniske ting.
 
 ## Komme igang med å bidra
 
